@@ -20,3 +20,4 @@ Solutions are organized by difficulty and language (Python)
 | Hard       | 0      | 50     |
 | SQL        | 0      | 50     |
  
+AA

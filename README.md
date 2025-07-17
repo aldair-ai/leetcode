@@ -15,7 +15,7 @@ Solutions are organized by difficulty and language (Python)
 ## ✅ Progress Tracker
 | Difficulty | Solved | Target |
 |------------|--------|--------|
-| Easy       | 6      | 100    |
+| Easy       | 8      | 100    |
 | Medium     | 0      | 150    |
 | Hard       | 0      | 50     |
 | SQL        | 0      | 50     |
